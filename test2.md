@@ -3,7 +3,7 @@
 Since we will simulate the whole REST API in the second part of the tutorial anyway, this step can be done optionally.
 
 ## Exercise steps
-
+https://user-images.githubusercontent.com/6877923/123006036-64e2e780-d3b7-11eb-922e-018994b32da5.mov
 If you like to simulate your beforehand created message mapping to ensure that it functions properly, proceed as follows. [See also video below](#Demo).
 1. If you are still in the message mapping editor, click on the *Simulate* button.
 2. In the upcoming dialog, select *Browse* to upload a sample input file
